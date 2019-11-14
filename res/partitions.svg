@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="174.09679mm"
+   height="104.32944mm"
+   viewBox="0 0 174.09679 104.32945"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="partitions.svg">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1493"
+       x="-0.0090876902"
+       width="1.0181754"
+       y="-0.042353623"
+       height="1.0847071">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.71035213"
+         id="feGaussianBlur1495" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1497"
+       x="-0.0090876902"
+       width="1.0181754"
+       y="-0.030287452"
+       height="1.0605749">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.71035213"
+         id="feGaussianBlur1499" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.8398117"
+     inkscape:cx="306.58159"
+     inkscape:cy="143.66851"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="730"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     fit-margin-top="2"
+     fit-margin-bottom="2"
+     fit-margin-left="2"
+     fit-margin-right="2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.1565407,-194.83528)">
+    <rect
+       style="fill:#3c448b;fill-opacity:0.3764706;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.50196081;filter:url(#filter1493)"
+       id="rect1394"
+       width="187.5994"
+       height="40.25264"
+       x="10.460148"
+       y="255.99144"
+       transform="matrix(0.8890094,0,0,1.0046535,-3.624436,-2.1707017)" />
+    <rect
+       style="fill:#a4a123;fill-opacity:0.3764706;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.50196081;filter:url(#filter1497)"
+       id="rect1394-4"
+       width="187.5994"
+       height="56.288826"
+       x="10.460148"
+       y="199.70262"
+       transform="matrix(0.89051675,0,0,1.0031562,-3.640203,-1.787421)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.30729151px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-278.64166"
+       y="47.236835"
+       id="text862"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan860"
+         x="-278.64166"
+         y="47.236835"
+         style="font-size:6.3499999px;stroke-width:0.26458332px">pre-miRNAs of mirBase 22</tspan></text>
+    <rect
+       style="fill:#0a5323;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect818"
+       width="40.058556"
+       height="53.446587"
+       x="53.376568"
+       y="201.56543" />
+    <rect
+       style="fill:#0a5323;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect818-3"
+       width="40.058548"
+       height="22.970404"
+       x="53.376575"
+       y="255.01199" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffffc;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="73.38932"
+       y="260.90097"
+       id="text888"><tspan
+         sodipodi:role="line"
+         id="tspan886"
+         x="73.38932"
+         y="260.90097"
+         style="text-align:center;text-anchor:middle;fill:#fffffc;fill-opacity:1;stroke-width:0.26458332px">pre-miRNAs</tspan><tspan
+         sodipodi:role="line"
+         x="73.38932"
+         y="267.95651"
+         style="text-align:center;text-anchor:middle;fill:#fffffc;fill-opacity:1;stroke-width:0.26458332px"
+         id="tspan890">of the species</tspan><tspan
+         sodipodi:role="line"
+         x="73.38932"
+         y="275.01208"
+         style="text-align:center;text-anchor:middle;fill:#fffffc;fill-opacity:1;stroke-width:0.26458332px"
+         id="tspan932">under study</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffffc;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="73.47612"
+       y="219.16473"
+       id="text888-6"><tspan
+         sodipodi:role="line"
+         id="tspan886-7"
+         x="73.47612"
+         y="219.16473"
+         style="text-align:center;text-anchor:middle;fill:#fffffc;fill-opacity:1;stroke-width:0.26458332px">pre-miRNAs</tspan><tspan
+         sodipodi:role="line"
+         x="73.47612"
+         y="226.22029"
+         style="text-align:center;text-anchor:middle;fill:#fffffc;fill-opacity:1;stroke-width:0.26458332px"
+         id="tspan890-5">of the rest</tspan><tspan
+         sodipodi:role="line"
+         x="73.47612"
+         y="233.27585"
+         style="text-align:center;text-anchor:middle;fill:#fffffc;fill-opacity:1;stroke-width:0.26458332px"
+         id="tspan930"> of species</tspan><tspan
+         sodipodi:role="line"
+         x="73.47612"
+         y="240.33141"
+         style="text-align:center;text-anchor:middle;fill:#fffffc;fill-opacity:1;stroke-width:0.26458332px"
+         id="tspan928">of the kingdom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.30729175px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-278.52075"
+       y="121.34756"
+       id="text862-0"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan860-6"
+         x="-278.52075"
+         y="121.34756"
+         style="font-size:6.3499999px;stroke-width:0.26458332px">Stem-loops of the species</tspan></text>
+    <rect
+       style="fill:#8b3c3c;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect818-1"
+       width="40.058548"
+       height="53.446564"
+       x="129.10168"
+       y="201.56543" />
+    <rect
+       style="fill:#8b3c3c;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect818-3-6"
+       width="40.058548"
+       height="22.970404"
+       x="129.10168"
+       y="255.01199" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffffc;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="149.0152"
+       y="268.44022"
+       id="text888-8"><tspan
+         id="tspan1192"
+         sodipodi:role="line"
+         x="149.0152"
+         y="268.44022"
+         style="text-align:center;text-anchor:middle;fill:#fffffc;fill-opacity:1;stroke-width:0.26458332px">10%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffffc;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="149.09789"
+       y="230.23175"
+       id="text888-6-2"><tspan
+         sodipodi:role="line"
+         x="149.09789"
+         y="230.23175"
+         style="text-align:center;text-anchor:middle;fill:#fffffc;fill-opacity:1;stroke-width:0.26458332px"
+         id="tspan1359">90%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="73.27356"
+       y="285.49744"
+       id="text1207"><tspan
+         sodipodi:role="line"
+         id="tspan1205"
+         x="73.27356"
+         y="285.49744"
+         style="line-height:100%;text-align:center;text-anchor:middle;stroke-width:0.26458332px">~thousands of</tspan><tspan
+         sodipodi:role="line"
+         x="73.27356"
+         y="291.14188"
+         style="line-height:100%;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan1213">sequences</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="148.99866"
+       y="285.49744"
+       id="text1211"><tspan
+         sodipodi:role="line"
+         id="tspan1209"
+         x="148.99866"
+         y="285.49744"
+         style="line-height:100%;text-align:center;text-anchor:middle;stroke-width:0.26458332px">~millions of</tspan><tspan
+         sodipodi:role="line"
+         x="148.99866"
+         y="291.14188"
+         style="line-height:100%;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan1215">sequences</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13.11461"
+       y="278.00946"
+       id="text1534-5"><tspan
+         sodipodi:role="line"
+         id="tspan1532-0"
+         x="13.11461"
+         y="278.00946"
+         style="font-size:8.46666622px;stroke-width:0.26458332px">Test</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13.11461"
+       y="229.89375"
+       id="text1534-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan1532-0-6"
+         x="13.11461"
+         y="229.89375"
+         style="font-size:8.46666622px;stroke-width:0.26458332px">Train</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,134 @@
+% \PassOptionsToPackage{subsection=false}{beamerouterthememiniframes}
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{beamerthemeshadow}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{tabto}
+\usepackage{multirow}
+\usepackage[beamer]{hf-tikz}
+% \setbeameroption{show notes on second screen=right}
+
+\setbeamertemplate{navigation symbols}{}
+\usetheme{Szeged}
+
+\definecolor{userColor}{rgb}{0.06640, 0.5390, 0.2304}
+\usecolortheme[named=userColor]{structure}
+
+\beamersetuncovermixins{\opaqueness<1>{25}}{\opaqueness<2->{15}}
+
+\newcommand{\sinc}{{\bf s{\i}nc}({$i$})}
+\newcommand{\highlight}[1]{\colorbox{blue!50}{$\displaystyle#1$}}
+\renewcommand{\thefootnote}{\alph{footnote}}
+
+\title{MicroRNA prediction from genome-wide data with deep learning: a novel approach based on convolutional residual networks}
+\author[Cristian Yones]{C. Yones, L.A. Bugnon, J. Raad, D.H. Milone and G. Stegmayer}
+\institute[\sinc - CONICET]{Research Institute for Signals, Systems and Computational Intelligence}
+\date{November 13, 2019}
+
+\makeatletter
+\setbeamertemplate{footline}
+{
+  \leavevmode
+  \hbox{
+    \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}
+      \usebeamerfont{author in head/foot}\insertshortauthor~\insertshortinstitute~\beamer@ifempty{\insertshortauthor}{}{}
+    \end{beamercolorbox}
+  }
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.25ex,dp=1ex,center]{date in head/foot}
+    \usebeamerfont{date in head/foot}\insertshortdate{}\hspace*{2em}
+    \insertframenumber{} / \inserttotalframenumber\hspace*{2ex}
+  \end{beamercolorbox}
+  \vskip0pt
+}
+
+\setbeamertemplate{title page}
+{
+  \setbeamercolor{lowcol}{fg=white,bg=userColor}
+
+  \begin{centering}
+
+    \begin{columns}
+      \begin{column}{0.15\textwidth}
+	\includegraphics[width=\textwidth]{./res/logo.pdf}
+      \end{column}
+      \begin{column}{0.85\textwidth}
+	\begin{minipage}{\textwidth}
+	  \usebeamerfont{institute} \scriptsize X Argentinian Conference on Bioinformatics and Computational Biology \\
+	  \tiny \insertdate
+	\end{minipage}
+      \end{column}
+    \end{columns}
+
+    \vfill
+    \vspace{10pt}
+
+    \begin{beamerboxesrounded}[lower=lowcol,shadow=true]{}
+      \centering \usebeamerfont{title}\inserttitle
+    \end{beamerboxesrounded}
+
+    \vspace{5pt}
+
+    \usebeamerfont{author}\insertauthor
+
+    \vspace{5pt}
+
+    \usebeamerfont{institute} \footnotesize \insertinstitute
+
+    \vspace{5pt}
+
+    \vfill
+
+    \includegraphics[width=0.28\textwidth]{./res/sinc_logo.png}
+
+    \vfill
+
+  \end{centering}
+}
+
+\setbeamertemplate{headline}
+{
+  \begin{beamercolorbox}{section in head/foot}
+    \vskip2pt\insertsectionnavigationhorizontal{\textwidth}{}{}\vskip2pt
+  \end{beamercolorbox}
+}
+
+\makeatother
+
+
+\begin{document}
+  \frame[plain]{
+    \titlepage
+  }
+
+  \frame{\tableofcontents}
+
+  \section{Introduction}
+  \frame{\tableofcontents[currentsection]}
+
+  \input{introduction.tex}
+
+  \section{Proposed method}
+  \frame{\tableofcontents[currentsection]}
+
+  \input{method.tex}
+
+  \section{Results}
+  \frame{\tableofcontents[currentsection]}
+
+  \input{results.tex}
+
+  \section{Conclusions}
+  \frame{\tableofcontents[currentsection]}
+
+  \input{conclusions.tex}
+
+  \frame[plain]{
+    \titlepage
+    \centering
+    \scriptsize \url{cyones@sinc.unl.edu.ar} \\
+    \url{http://www.sinc.unl.edu.ar/}
+  }
+
+\end{document}
